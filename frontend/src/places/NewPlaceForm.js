@@ -8,6 +8,7 @@ function NewPlaceForm() {
 	const [place, setPlace] = useState({
 		name: '',
 		pic: '',
+		founded: '',
 		city: '',
 		state: '',
 		cuisines: ''
